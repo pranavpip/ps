@@ -1,0 +1,50 @@
+.type1{
+    width:30%;
+    display:block;
+    margin:0px auto 
+}
+.card{
+    padding:0px 0px;
+    margin: 0px 0px;
+    box-shadow: 9px 2px black;
+}
+body{
+    background-color:lightcyan;
+}
+img {
+    display: block;
+    margin-left :auto;
+    margin-right:auto;
+    border-radius:50%;
+}
+
+table,th,td{
+    border:2px solid #162d39;
+    text-align: center;
+    
+}
+table{
+    border-collapse: collapse;
+}
+thead {
+    color:rgba(112, 31, 31, 0.675);
+}
+table{
+    width:1000px;
+}
+table{
+    height:250px;
+}
+
+#ProfileName{
+    text-align:center;
+}
+
+#profile-picture-div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
